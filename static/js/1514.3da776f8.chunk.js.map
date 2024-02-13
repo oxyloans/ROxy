@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/1514.3da776f8.chunk.js","mappings":"sIAMA,UAJc,WACZ,OAAOA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,SACd,C","sources":["components/pages/Oxyloans/Borrower/Enach.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Enach = () => {\r\n  return <div>Enach</div>;\r\n};\r\n\r\nexport default Enach;\r\n"],"names":["_jsx","children"],"sourceRoot":""}

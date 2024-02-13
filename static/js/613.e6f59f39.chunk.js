@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[613],{613:function(e,n,r){r.r(n);r(29867);var u=r(92834);n.default=function(){return(0,u.jsx)("div",{children:"ReferFriend"})}}}]);
+//# sourceMappingURL=613.e6f59f39.chunk.js.map

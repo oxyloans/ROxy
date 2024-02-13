@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[5507],{15507:function(n,c,e){e.r(c);e(29867);var t=e(92834);c.default=function(){return(0,t.jsx)("div",{children:"Mycontacts"})}}}]);
+//# sourceMappingURL=5507.32a076a3.chunk.js.map
