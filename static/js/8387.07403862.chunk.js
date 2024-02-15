@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8387],{48387:function(e,n,t){t.r(n);t(29867);var a=t(92834);n.default=function(){return(0,a.jsx)("div",{children:"LoanStatement"})}}}]);
-//# sourceMappingURL=8387.07403862.chunk.js.map
