@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.02ae5f99.css",
-    "main.js": "/static/js/main.93ade3f7.js",
+    "main.js": "/static/js/main.8b9ebf52.js",
     "static/js/628.4249c355.chunk.js": "/static/js/628.4249c355.chunk.js",
     "static/js/52.ef08086e.chunk.js": "/static/js/52.ef08086e.chunk.js",
+    "static/media/oxyloans_10_years_doodle.png": "/static/media/oxyloans_10_years_doodle.a9a5a0252982571dd7dc.png",
     "static/media/lender_welcome_10years.png": "/static/media/lender_welcome_10years.6cfcd62e5d6ef10bd686.png",
     "static/media/register_active_hero.png": "/static/media/register_active_hero.579afbf5f29bc62058fd.png",
     "static/media/login_hero_left.png": "/static/media/login_hero_left.61dd5caeb3ef84b1f107.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.ca408b63c26d83dbd1e4.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.bc671f97630e1af81f65.svg",
+    "static/media/oxyloans_10_years_doodle.gif": "/static/media/oxyloans_10_years_doodle.fe2110ebcf0498b9d68a.gif",
     "static/media/borrower_register_hero.png": "/static/media/borrower_register_hero.0f6ee49be8f13deaa60d.png",
     "static/media/lender_register_hero_perfect.png": "/static/media/lender_register_hero_perfect.f8e9f27424456df8c659.png",
     "static/media/registerImage.png": "/static/media/registerImage.c9c48072386b4b090dcb.png",
@@ -49,12 +51,12 @@
     "static/media/header-icon-03.svg": "/static/media/header-icon-03.de965d09147c4a7bec15d6392f993833.svg",
     "static/media/arrow.svg": "/static/media/arrow.5bedbfe4e43520b23038.svg",
     "main.02ae5f99.css.map": "/static/css/main.02ae5f99.css.map",
-    "main.93ade3f7.js.map": "/static/js/main.93ade3f7.js.map",
+    "main.8b9ebf52.js.map": "/static/js/main.8b9ebf52.js.map",
     "628.4249c355.chunk.js.map": "/static/js/628.4249c355.chunk.js.map",
     "52.ef08086e.chunk.js.map": "/static/js/52.ef08086e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02ae5f99.css",
-    "static/js/main.93ade3f7.js"
+    "static/js/main.8b9ebf52.js"
   ]
 }
