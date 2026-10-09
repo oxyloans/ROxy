@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.02ae5f99.css",
-    "main.js": "/static/js/main.8b9ebf52.js",
+    "main.css": "/static/css/main.081df6ee.css",
+    "main.js": "/static/js/main.fdd60ba8.js",
     "static/js/628.4249c355.chunk.js": "/static/js/628.4249c355.chunk.js",
     "static/js/52.ef08086e.chunk.js": "/static/js/52.ef08086e.chunk.js",
     "static/media/oxyloans_10_years_doodle.png": "/static/media/oxyloans_10_years_doodle.a9a5a0252982571dd7dc.png",
@@ -10,6 +10,7 @@
     "static/media/login_hero_left.png": "/static/media/login_hero_left.61dd5caeb3ef84b1f107.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.ca408b63c26d83dbd1e4.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.bc671f97630e1af81f65.svg",
+    "static/media/oxyloans_10th_anniversary_cinematic.jpg": "/static/media/oxyloans_10th_anniversary_cinematic.6273ba6380981cc79927.jpg",
     "static/media/oxyloans_10_years_doodle.gif": "/static/media/oxyloans_10_years_doodle.fe2110ebcf0498b9d68a.gif",
     "static/media/borrower_register_hero.png": "/static/media/borrower_register_hero.0f6ee49be8f13deaa60d.png",
     "static/media/lender_register_hero_perfect.png": "/static/media/lender_register_hero_perfect.f8e9f27424456df8c659.png",
@@ -17,6 +18,7 @@
     "static/media/login.png": "/static/media/login.4772215e08600112becc.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.3a24a60e7f9c6574864a.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.10ecefc282f2761808bf.ttf",
+    "static/media/qr_banner_center_art.png": "/static/media/qr_banner_center_art.cdd6e045d026fe1d5817.png",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.64f4b211d3b0ddac8405.svg",
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.0fea24969112a781acd2.eot",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.ec82f282c7f54b637098.ttf",
@@ -25,6 +27,7 @@
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+    "static/media/qr_phone_clean.png": "/static/media/qr_phone_clean.2b2469ad5197327e5f96.png",
     "static/media/wallet.png": "/static/media/wallet.affa2473a57758d27005.png",
     "static/media/oxylogodashboard.png": "/static/media/oxylogodashboard.e3941c2f7006412abfd7.png",
     "static/media/oxylogomobile.png": "/static/media/oxylogomobile.20e18127cbc060ff9c7b.png",
@@ -50,13 +53,13 @@
     "static/media/header-icon-04.svg": "/static/media/header-icon-04.d900ae39fff40cd6996447a98e16f095.svg",
     "static/media/header-icon-03.svg": "/static/media/header-icon-03.de965d09147c4a7bec15d6392f993833.svg",
     "static/media/arrow.svg": "/static/media/arrow.5bedbfe4e43520b23038.svg",
-    "main.02ae5f99.css.map": "/static/css/main.02ae5f99.css.map",
-    "main.8b9ebf52.js.map": "/static/js/main.8b9ebf52.js.map",
+    "main.081df6ee.css.map": "/static/css/main.081df6ee.css.map",
+    "main.fdd60ba8.js.map": "/static/js/main.fdd60ba8.js.map",
     "628.4249c355.chunk.js.map": "/static/js/628.4249c355.chunk.js.map",
     "52.ef08086e.chunk.js.map": "/static/js/52.ef08086e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02ae5f99.css",
-    "static/js/main.8b9ebf52.js"
+    "static/css/main.081df6ee.css",
+    "static/js/main.fdd60ba8.js"
   ]
 }
