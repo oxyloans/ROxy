@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.081df6ee.css",
-    "main.js": "/static/js/main.fdd60ba8.js",
+    "main.js": "/static/js/main.b0790cb7.js",
     "static/js/628.4249c355.chunk.js": "/static/js/628.4249c355.chunk.js",
     "static/js/52.ef08086e.chunk.js": "/static/js/52.ef08086e.chunk.js",
     "static/media/oxyloans_10_years_doodle.png": "/static/media/oxyloans_10_years_doodle.a9a5a0252982571dd7dc.png",
@@ -54,12 +54,12 @@
     "static/media/header-icon-03.svg": "/static/media/header-icon-03.de965d09147c4a7bec15d6392f993833.svg",
     "static/media/arrow.svg": "/static/media/arrow.5bedbfe4e43520b23038.svg",
     "main.081df6ee.css.map": "/static/css/main.081df6ee.css.map",
-    "main.fdd60ba8.js.map": "/static/js/main.fdd60ba8.js.map",
+    "main.b0790cb7.js.map": "/static/js/main.b0790cb7.js.map",
     "628.4249c355.chunk.js.map": "/static/js/628.4249c355.chunk.js.map",
     "52.ef08086e.chunk.js.map": "/static/js/52.ef08086e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.081df6ee.css",
-    "static/js/main.fdd60ba8.js"
+    "static/js/main.b0790cb7.js"
   ]
 }
